@@ -1,8 +1,8 @@
 # Shop Giày Thượng Đình
 
-## Link gitlab
+## Link gitHub
 
-https://gitlab.com/huynhnhinguyen0301/bc44_reactjs_b35_nguyenthihuynhnhi_shoeshopredux
+https://github.com/nguyenthihuynhnhi/BC44_REACTJS_B35_NguyenThiHuynhNhi_ShoeShopRedux.git
 
 ## Link deploy
 
